@@ -1,0 +1,8 @@
+img{
+    height: 490px;
+    width: 400px;
+    object-fit: cover;
+    -webkit-mask-image: url(./splash.png);
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+}
